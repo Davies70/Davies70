@@ -1,6 +1,6 @@
 ### Hi there, I am Davies Ajayi 👋
 
-Aspiring software developer. Passionate about JavaScript, Python and C. Looking to solve problems. 
+Web developer. Passionate about JavaScript, Python and C. Looking to solve problems. 
 - 🔭 I’m currently building an AirBnB clone and a book-finder web app
 - 🌱 I’m currently learning front-end software development at ALX
 - 👯 I’m looking to collaborate on open source projects
