@@ -1,6 +1,6 @@
 #  Davies Ajayi
 
-I'm a **Fullstack Developer** passionate about building scalable, user-focused web applications. With a background in Agriculture and Dairy Science, I bring analytical thinking and problem-solving skills into software development.
+I'm a **Fullstack Developer** passionate about building scalable, user-focused web applications. I bring analytical thinking and problem-solving skills into software development.
 
 ---
 
