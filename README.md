@@ -14,8 +14,6 @@ Check out my full portfolio: [daviesajayi.com](https://daviesajayi.com/)
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/daviesajayi)  
-- Email: ajayidavies7@gmail.com  
-
-“Turning ideas into scalable web solutions, one step at a time.” 
+- Email: ajayidavies7@gmail.com 
